@@ -30,9 +30,7 @@ Email: 📧 info@gracecoe.org
 Website: 🌐 www.gracecoe.org
 
 👥 LEADERSHIP TEAM
-Chairman: Mr. P. Selvaraj
-Vice Chairman: Mr. S. P. Chandy, B.E., M.B.A.
-Managing Director: Mr. C.M. Joshua, M.Sc. (Botany)
+Chairman: Mr. C.M. Joshua, M.Sc. (Botany)
 Director: Mr. S. Stephen, M.Sc. (Botany)
 Secretary: Mrs. J. Rajkamal Petro, M.A. (English)
 Principal: Dr. S. Richard, B.E., M.Tech., Ph.D. (Engineering Design)
